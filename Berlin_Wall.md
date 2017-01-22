@@ -132,7 +132,7 @@
 </tr>
 </table>
 
-###Comparaison des quatre positions
+### Comparaison des quatre positions
 
 De gauche à droite :  
 
@@ -153,7 +153,7 @@ L'idée est ici que les Fous noirs, toujours pleinement libres de leurs mouvemen
 Le Fe6 en particulier se poste en `bélier` efficace en vis-à-vis du pion e5, de sorte que toute progression vers le *Mur de Berlin* est, sinon impossible, du moins fortement ralentie.  
 &Agrave; nouveau, ce sont les pertes de `tempi` des Blancs qui permettent l'égalisation de la position : ce que constatera Kasparov de lui-même dans la 13ème, puisque après **14. g4** (permettant sans doute la man&oelig;uvre Cf5-e7-d5 ou [en cas de c3-c4] Cf5-e7-c6-d4 ou b4) les Noirs maîtrisent sans problème une structure de pions blanche à l'Aile Roi dépourvue de coordination et de tonus.
 
-###Le match en un coup d'oeil
+### Le match en un coup d'oeil
 
 (résultats en gras = résultats avec les Blancs)
 
