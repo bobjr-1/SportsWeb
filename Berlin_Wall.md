@@ -1,9 +1,8 @@
-##Encadré : en 2000, Kramnik reconstruisit le Mur de Berlin
+## Encadré : en 2000, Kramnik reconstruisit le Mur de Berlin
 
 **1. e4 e5 2. Cf3 Cc6 3. Fb5 Cf6**
 
 ![](Berlin_Wall.png)
-
 
 <table>
 <tr>
