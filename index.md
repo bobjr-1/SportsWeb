@@ -1,6 +1,3 @@
-## Encadré
+## Le site de mes expérimentations web
 
-[Berlin Wall](Berlin_Wall.md)
-
-----
 
