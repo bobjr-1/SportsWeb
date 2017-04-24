@@ -1,8 +1,6 @@
 # TestWeb
 
-> Il s'agit ici de tester l'application mdwiki.html.
-
-Cette application permet la mise en ligne de fichiers markdown.
+Le site des expérimentations se touve sur [**https://bobjr-1.github.io/TestWeb/**](https://bobjr-1.github.io/TestWeb/)
 
 
 
