@@ -1,6 +1,6 @@
 ## La mémoire des sports
 
 | &nbsp; | nombre d'événements |
-| --- | --- |
-| &Eacute;checs | 0 |
+| --- | :---: |
+| [**&Eacute;checs**](Echecs.md) | 1 |
 
