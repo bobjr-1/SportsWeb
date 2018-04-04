@@ -1,1 +1,4 @@
-remote_theme: nielsenramon/chalk
+blog_theme: light
+name: Chalk
+paginate: 25
+url: https://bobjr-1.github.io/SportsWeb/
